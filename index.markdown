@@ -8,6 +8,8 @@ title: Über mich
 
 Ich wurde am 12. April 1997 geboren und bin aktuell in Augsburg wohnhaft.
 
+Meine Hauptinteressen liegen im Bereich des Deep Learnings. Erfahrungen sammeln konnte ich in der Anwendung des Deep Learning im industriellen Kontext, insbesondere der Qualitätssicherung von Carbonteilen.
+
 ## Ausbildung
 
 * Seit 10/2018: Studiengang Master of Science in Informatik an der Universität Augsburg.
@@ -24,7 +26,7 @@ Thema der Arbeit: "In-situ Überwachung von Composite-Herstellungsprozessen mit 
 
 Für diese Arbeit habe ich mit Hilfe der Simulation [PAM-RTM von ESI Systems](https://www.esi-group.com/products/composites) Daten des RTM-Prozesses für die Herstellung von Carbonteilen erzeugt und diese anschließen mit Graph Convolutional Neural Networks verarbeitet. 
 
-
+Das Thema dieser Arbeit habe ich in einem [Blog-Post]({% post_url 2020-11-19-masterarbeit %}) genauer ausgeführt
 # Wissenschaftliche Hilfskraft - Seit 12/2018
 
 Seit Dezember 2018 und aktuell parallel zur Masterarbeit bin ich als wissenschaftliche Hilfskraft am ISSE tätig. Dort unterstütze ich die Forschung von Simon Stieber im Bereich der Qualitätsvorhersage von CFK-Bauteilen mittels maschinellen Lernens. 
