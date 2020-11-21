@@ -13,9 +13,9 @@ Meine Masterarbeit baut auf der bisherigen Forschung im Bereich der automatisier
 
 Die Vision ist es, eine Vorhersage über die Qualität eines Carbonteils schon während der Produktion zu ermöglichen. Durch das Einbringen von Sensoren direkt in das Werkzeug können während der Herstellung große Datenmengen gesammelt werden, die dann wiederum mit tiefen neuronalen Netzen weiterverarbeitet werden. 
 
-Bisher wurde allerdings lediglich ein flaches Bauteil betrachtet. Um die Forschungsergebnisse näher an die Realität zu bringen, soll ich daher in meiner Masterarbeit ein Bauteil mit dreidimensionalen Elementen betrachten. Das von mir verwendete Bauteil ist im Screenshot am Anfang zu sehen.
+Bisher wurde allerdings nur ein planes Bauteil betrachtet. Um die Forschungsergebnisse näher an die Realität zu bringen, soll ich daher in meiner Masterarbeit ein Bauteil mit dreidimensionalen Elementen betrachten. Das von mir verwendete Bauteil ist im Screenshot am Anfang zu sehen.
 
-Eine weitere Motivation der Arbeit ist die Verwendung von 3D-Repräsentationen zum Lernen. Da bisher nur Sensorwerte isoliert als Vektor oder Matrix den neuronalen Netzen als Input gegeben wurden, soll ich in meiner Masterarbeit direkt auf einer Graphrepräsentation lernen. Ermöglicht wird das durch Graph Neural Networks, mit denen zuletzt große Fortschritte im Bereich von Physiksimulationen erzielt werden konnten. 
+Eine weitere Motivation der Arbeit ist die Verwendung von 3D-Repräsentationen zum Lernen. Da bisher nur Sensorwerte isoliert als Vektor oder Matrix den neuronalen Netzen als Input gegeben wurden, soll ich in meiner Masterarbeit direkt auf einer Graphrepräsentation lernen. Ermöglicht wird das durch Graph Neural Networks, mit denen zuletzt große Fortschritte im Bereich von Physiksimulationen erzielt werden konnten (s. dazu die [Veröffentlichung von Pfaff et al.](https://arxiv.org/abs/2010.03409))
 
 # Datenerzeugung
 
@@ -33,7 +33,7 @@ Da das Bauteil in der Simulation als Triangle Mesh repräsentiert ist, war die V
 Die Sensorwerte werden auf den Knoten platziert, die nächste Nachbarn zu den jeweiligen Sensoren sind. Da in der Simulation relativ viele Sensoren platziert sind (1 cm Abstand zwischen den Sensoren; 4290 Sensoren insgesamt), können Experimente mit verschiedenen Sensorabständen durchgeführt werden der
 
 Mein Modell besteht aus gestapelten Graph Convolutional Layers, die die Information durch das Mesh propagieren und dabei Features extrahieren. 
-Graph Covolutional Layers sind wie grundsätzlich folgt definiert: 
+Graph Covolutional Layers sind wie folgt definiert: 
 
 ![GCN](/assets/gcn.png)
 

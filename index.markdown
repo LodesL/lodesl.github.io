@@ -12,21 +12,21 @@ Meine Hauptinteressen liegen im Bereich des Deep Learnings. Erfahrungen sammeln 
 
 ## Ausbildung
 
-* Seit 10/2018: Studiengang Master of Science in Informatik an der Universität Augsburg.
+* Seit 10/2018: Studiengang Master of Science in Informatik an der Universität Augsburg
 * Von 10/2015 bis 09/2018: Studiengang Bachelor of Science in Informatik und Multimedia an der Universität Augsburg. Abgeschlossen mit der Note 2,18
 * 06/2015: Abitur am Graf-Münster-Gymnasium Bayreuth, abgelegt an der Staatlichen Gesamtschule Hollfeld mit der Note 1,5
 
 ## Praktische Erfahrungen
-Während meines Studiums hatte ich die Möglichkeiten sowohl fachlich als auch im Umgang mit Menschen viel Erfahrung zu sammeln: 
+Während meines Studiums hatte ich die Möglichkeit sowohl fachlich als auch im Umgang mit Menschen viele Erfahrungen zu sammeln: 
 
 # Masterarbeit - Seit 08/2020
 Aktuell fertige ich am Institut für Software & Systems Engineering (ISSE) der Universität Augsburg meine Masterarbeit an. 
 
 Thema der Arbeit: "In-situ Überwachung von Composite-Herstellungsprozessen mit tiefen neuronalen Netzen auf der Basis von 3D-Repräsentationen" 
 
-Für diese Arbeit habe ich mit Hilfe der Simulation [PAM-RTM von ESI Systems](https://www.esi-group.com/products/composites) Daten des RTM-Prozesses für die Herstellung von Carbonteilen erzeugt und diese anschließen mit Graph Convolutional Neural Networks verarbeitet. 
+Für diese Arbeit habe ich mit Hilfe der Simulation [PAM-RTM von ESI Systems](https://www.esi-group.com/products/composites) Daten des RTM-Prozesses für die Herstellung von Carbonteilen erzeugt und diese anschließend mit Graph Convolutional Neural Networks verarbeitet. 
 
-Das Thema dieser Arbeit habe ich in einem [Blog-Post]({% post_url 2020-11-19-masterarbeit %}) genauer ausgeführt
+Das Thema dieser Arbeit habe ich in einem [Blog-Post]({% post_url 2020-11-19-masterarbeit %}) genauer ausgeführt.
 # Wissenschaftliche Hilfskraft - Seit 12/2018
 
 Seit Dezember 2018 und aktuell parallel zur Masterarbeit bin ich als wissenschaftliche Hilfskraft am ISSE tätig. Dort unterstütze ich die Forschung von Simon Stieber im Bereich der Qualitätsvorhersage von CFK-Bauteilen mittels maschinellen Lernens. 
@@ -69,11 +69,11 @@ Ich kann sicher mit Git umgehen und habe ein grundlegendes Verständnis von Linu
 
 # Sprachen
 
-Meine Muttersprache ist Deutsch und ich spreche zusätzlich Englisch auf C1-Niveau
+Meine Muttersprache ist Deutsch und ich spreche zusätzlich Englisch auf B2-Niveau.
 
 # Sonstige Kenntnisse
 
-Ich besitze einen Führerschein der Klasse B
+Ich besitze einen Führerschein der Klasse B.
 
 # Hobbies
 
