@@ -6,7 +6,7 @@ layout: page
 title: Über mich
 ---
 
-Ich wurde am 12. April 1997 geboren und bin aktuell in Augsburg wohnhaft.
+Ich wurde am 12. April 1997 geboren und bin aktuell in Erlangen wohnhaft.
 
 Meine Hauptinteressen liegen im Bereich des Deep Learnings. Erfahrungen sammeln konnte ich in der Anwendung des Deep Learning im industriellen Kontext, insbesondere der Qualitätssicherung von Carbonteilen.
 
